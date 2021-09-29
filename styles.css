@@ -36,7 +36,7 @@ a:visited{
     font-family: fantasy;
     position: absolute;
     top:10%;
-    left:50%;
+    left:40%;
     transform: translate(-50%,-50%);
 }
 .bodyimg h3{
